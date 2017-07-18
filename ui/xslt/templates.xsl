@@ -11,9 +11,9 @@
     <div class="senylrc_top_container">
     <div class="top_left">
 		<div id="logo">
-			<a href="http://www2.empireadc.org" title="Home"><img src="http://www2.empireadc.org/sites/www2.empireadc.org/files/ead_logo.gif"/></a>
+			<a href="http://www.empireadc.org" title="Home"><img src="https://www.empireadc.org/sites/www.empireadc.org/files/ead_logo.gif"/></a>
         </div>
-		<h1 id="site-title"><a href="http://www2.empireadc.org" title="Home"></a></h1>
+		<h1 id="site-title"><a href="http://www.empireadc.org" title="Home"></a></h1>
     </div>
     <div class="top_right">
 		<div id="site-description">Finding Aids at Your Fingertips</div>
@@ -21,11 +21,11 @@
 			<a class="nav-toggle" href="#">Menu</a>
 			<div class="menu-navigation-container">
 			<ul class="menu">
-				<li class="first leaf"><a style="background: #f45145;" href="http://www2.empireadc.org/ead/results" title="">Browse</a></li>
-				<li class="leaf"><a href="http://www2.empireadc.org/ead/search" title="">Search</a></li>
-				<li class="leaf"><a href="http://www2.empireadc.org/ead/maps" title="">Map</a></li>
-				<li class="leaf"><a href="http://www2.empireadc.org/participate" title="">Participate</a></li>
-				<li class="last leaf"><a href="http://www2.empireadc.org/about" title="">About</a></li>
+				<li class="first leaf"><a style="background: #f45145;" href="http://www.empireadc.org/ead/results" title="">Browse</a></li>
+				<li class="leaf"><a href="http://www.empireadc.org/ead/search" title="">Search</a></li>
+				<li class="leaf"><a href="http://www.empireadc.org/ead/maps" title="">Map</a></li>
+				<li class="leaf"><a href="http://www.empireadc.org/participate" title="">Participate</a></li>
+				<li class="last leaf"><a href="http://www.empireadc.org/about" title="">About</a></li>
 			</ul>
 			</div>
         <div class="clear"></div>
@@ -47,9 +47,9 @@
     <div class="senylrc_top_container">
     <div class="top_left">
                 <div id="logo">
-                        <a href="http://www2.empireadc.org" title="Home"><img src="http://www2.empireadc.org/sites/www2.empireadc.org/files/ead_logo.gif"/></a>
+                        <a href="http://www.empireadc.org" title="Home"><img src="https://www.empireadc.org/sites/www.empireadc.org/files/ead_logo.gif"/></a>
         </div>
-                <h1 id="site-title"><a href="http://www2.empireadc.org" title="Home"></a></h1>
+                <h1 id="site-title"><a href="http://www.empireadc.org" title="Home"></a></h1>
     </div>
     <div class="top_right">
                 <div id="site-description">Finding Aids at Your Fingertips</div>
@@ -57,11 +57,11 @@
                         <a class="nav-toggle" href="#">Menu</a>
                         <div class="menu-navigation-container">
                         <ul class="menu">
-                                <li class="first leaf"><a href="http://www2.empireadc.org/ead/results" title="">Browse</a></li>
-                                <li class="leaf"><a  style="background: #f45145;" href="http://www2.empireadc.org/ead/search" title="">Search</a></li>
-                                <li class="leaf"><a href="http://www2.empireadc.org/ead/maps" title="">Map</a></li>
-                                <li class="leaf"><a href="http://www2.empireadc.org/participate" title="">Participate</a></li>
-                                <li class="last leaf"><a href="http://www2.empireadc.org/about" title="">About</a></li>
+                                <li class="first leaf"><a href="http://www.empireadc.org/ead/results" title="">Browse</a></li>
+                                <li class="leaf"><a  style="background: #f45145;" href="http://www.empireadc.org/ead/search" title="">Search</a></li>
+                                <li class="leaf"><a href="http://www.empireadc.org/ead/maps" title="">Map</a></li>
+                                <li class="leaf"><a href="http://www.empireadc.org/participate" title="">Participate</a></li>
+                                <li class="last leaf"><a href="http://www.empireadc.org/about" title="">About</a></li>
                         </ul>
                         </div>
         <div class="clear"></div>
@@ -81,9 +81,9 @@
     <div class="senylrc_top_container">
     <div class="top_left">
                 <div id="logo">
-                        <a href="http://www2.empireadc.org" title="Home"><img src="http://www2.empireadc.org/sites/www2.empireadc.org/files/ead_logo.gif"/></a>
+                        <a href="http://www.empireadc.org" title="Home"><img src="https://www.empireadc.org/sites/www.empireadc.org/files/ead_logo.gif"/></a>
         </div>
-                <h1 id="site-title"><a href="http://www2.empireadc.org" title="Home"></a></h1>
+                <h1 id="site-title"><a href="http://www.empireadc.org" title="Home"></a></h1>
     </div>
     <div class="top_right">
                 <div id="site-description">Finding Aids at Your Fingertips</div>
@@ -91,11 +91,11 @@
                         <a class="nav-toggle" href="#">Menu</a>
                         <div class="menu-navigation-container">
                         <ul class="menu">
-                                <li class="first leaf"><a href="http://www2.empireadc.org/ead/results" title="">Browse</a></li>
-                                <li class="leaf"><a href="http://www2.empireadc.org/ead/search" title="">Search</a></li>
-                                <li class="leaf"><a style="background: #f45145;"  href="http://www2.empireadc.org/ead/maps" title="">Map</a></li>
-                                <li class="leaf"><a href="http://www2.empireadc.org/participate" title="">Participate</a></li>
-                                <li class="last leaf"><a href="http://www2.empireadc.org/about" title="">About</a></li>
+                                <li class="first leaf"><a href="http://www.empireadc.org/ead/results" title="">Browse</a></li>
+                                <li class="leaf"><a href="http://www.empireadc.org/ead/search" title="">Search</a></li>
+                                <li class="leaf"><a style="background: #f45145;"  href="http://www.empireadc.org/ead/maps" title="">Map</a></li>
+                                <li class="leaf"><a href="http://www.empireadc.org/participate" title="">Participate</a></li>
+                                <li class="last leaf"><a href="http://www.empireadc.org/about" title="">About</a></li>
                         </ul>
                         </div>
         <div class="clear"></div>
@@ -153,7 +153,7 @@ Email: <a href="mailto:info@empireadc.org">info@empireadc.org</a></p>
 
       
   <div class="content">
-    <p>A project of the  <a href="http://www.esln.org/"><img alt="" height="46" src="http://www2.empireadc.org/sites/www.empireadc.org/files/empireadc_esln_footer_logo.png" width="300" /></a><br />
+    <p>A project of the  <a href="http://www.esln.org/"><img alt="" height="46" src="https://www.empireadc.org/sites/www.empireadc.org/files/empireadc_esln_footer_logo.png" width="300" /></a><br />
 (c) 2017 Empire Archival Discovery Cooperative. All rights reserved.</p>
 <p>Powered by <a href="https://github.com/ewg118/eaditor" target="_blank">EADitor</a></p>
   </div>

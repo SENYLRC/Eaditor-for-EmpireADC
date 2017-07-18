@@ -9,7 +9,7 @@ html {
 }
 body {
     background: #fff none repeat scroll 0 0;
-    color: #666;
+    color: #000;
     font-family: "Open Sans",sans-serif;
     font-size: 14px;
     line-height: 170%;
@@ -356,4 +356,12 @@ img {
 	color: #58595b;
 }
 
-
+.esln_list {
+ 	width: 20%;
+}
+.esln_map {
+  	width:20%;
+}
+.esln_block {
+	 display: inline;
+}

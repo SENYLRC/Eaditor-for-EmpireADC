@@ -32,10 +32,10 @@
 			</ul>
 			<ul class="nav navbar-nav navbar-right">
 				<xforms:group ref=".[instance('master-config')/aggregator='true']">
-					<li><a href="{instance('master-config')/url}" target="_blank"><span class="glyphicon glyphicon-new-window"/> View Public Site</a></li>
+					<li><a href="{instance('master-config')/url}results" target="_blank"><span class="glyphicon glyphicon-new-window"/> View Public Site</a></li>
 				</xforms:group>
 				<xforms:group ref=".[not(instance('master-config')/aggregator='true')]">
-					<li><a href="{instance('config')/url}" target="_blank"><span class="glyphicon glyphicon-new-window"/> View Public Site</a></li>
+					<li><a href="{instance('config')/url}results" target="_blank"><span class="glyphicon glyphicon-new-window"/> View Public Site</a></li>
 				</xforms:group>
 				<li>
 					<a href="{$display_path}logout"><span class="glyphicon glyphicon-log-out"/> Logout</a>
