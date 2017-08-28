@@ -21,11 +21,11 @@
 			<a class="nav-toggle" href="#">Menu</a>
 			<div class="menu-navigation-container">
 			<ul class="menu">
-				<li class="first leaf"><a style="background: #f45145;" href="http://www.empireadc.org/ead/results" title="">Browse</a></li>
-				<li class="leaf"><a href="http://www.empireadc.org/ead/search" title="">Search</a></li>
-				<li class="leaf"><a href="http://www.empireadc.org/ead/maps" title="">Map</a></li>
-				<li class="leaf"><a href="http://www.empireadc.org/participate" title="">Participate</a></li>
-				<li class="last leaf"><a href="http://www.empireadc.org/about" title="">About</a></li>
+				<li class="first leaf"><a style="background: #f45145;" href="{$display_path}results">Browse</a></li>
+				<li class="leaf"><a href="{$display_path}search">Search</a></li>
+				<li class="leaf"><a href="{$display_path}maps">Map</a></li>
+				<li class="leaf"><a href="{$display_path}participate" title="">Participate</a></li>
+				<li class="last leaf"><a href="{$display_path}about" title="">About</a></li>
 			</ul>
 			</div>
         <div class="clear"></div>
@@ -58,10 +58,10 @@
                         <div class="menu-navigation-container">
                         <ul class="menu">
                                 <li class="first leaf"><a href="http://www.empireadc.org/ead/results" title="">Browse</a></li>
-                                <li class="leaf"><a  style="background: #f45145;" href="http://www.empireadc.org/ead/search" title="">Search</a></li>
-                                <li class="leaf"><a href="http://www.empireadc.org/ead/maps" title="">Map</a></li>
-                                <li class="leaf"><a href="http://www.empireadc.org/participate" title="">Participate</a></li>
-                                <li class="last leaf"><a href="http://www.empireadc.org/about" title="">About</a></li>
+                                <li class="leaf"><a  style="background: #f45145;" href="{$display_path}search" title="">Search</a></li>
+                                <li class="leaf"><a href="{$display_path}maps" title="">Map</a></li>
+                                <li class="leaf"><a href="{$display_path}participate" title="">Participate</a></li>
+                                <li class="last leaf"><a href="{$display_path}about" title="">About</a></li>
                         </ul>
                         </div>
         <div class="clear"></div>
@@ -91,11 +91,11 @@
                         <a class="nav-toggle" href="#">Menu</a>
                         <div class="menu-navigation-container">
                         <ul class="menu">
-                                <li class="first leaf"><a href="http://www.empireadc.org/ead/results" title="">Browse</a></li>
-                                <li class="leaf"><a href="http://www.empireadc.org/ead/search" title="">Search</a></li>
-                                <li class="leaf"><a style="background: #f45145;"  href="http://www.empireadc.org/ead/maps" title="">Map</a></li>
-                                <li class="leaf"><a href="http://www.empireadc.org/participate" title="">Participate</a></li>
-                                <li class="last leaf"><a href="http://www.empireadc.org/about" title="">About</a></li>
+                                <li class="first leaf"><ahref="{$display_path}results" title="">Browse</a></li>
+                                <li class="leaf"><a href="{$display_path}search" title="">Search</a></li>
+                                <li class="leaf"><a style="background: #f45145;"  href="{$display_path}maps" title="">Map</a></li>
+                                <li class="leaf"><a href="{$display_path}participate" title="">Participate</a></li>
+                                <li class="last leaf"><a href="{$display_path}about" title="">About</a></li>
                         </ul>
                         </div>
         <div class="clear"></div>
